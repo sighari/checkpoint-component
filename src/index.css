@@ -1,0 +1,22 @@
+body {
+  margin: 70px;
+  padding-left: 500px;
+  background-color: rgb(54, 112, 219);
+  background-repeat: repeat;
+}
+
+img{
+  width: 200px;
+  height: 250px;
+  border-radius: 10px;
+  border: solid black 1px;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size:larger;
+  font-weight:bold;
+  color: rgb(190, 6, 6);
+}
+.container{
+  display: flex;
+}
